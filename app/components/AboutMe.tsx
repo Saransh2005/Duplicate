@@ -41,7 +41,7 @@ export default function AboutMe() {
             src="/saransh.jpeg"
             alt="Saransh Singh"
             fill
-            className="object-cover grayscale group-hover:grayscale-0 transition-all duration-700"
+            //className="object-cover grayscale group-hover:grayscale-0 transition-all duration-700"
           />
         </div>
       </div>
